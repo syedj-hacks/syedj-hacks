@@ -102,3 +102,11 @@ Currently chasing OSCP. Always chasing the next flag.
 [![Email](https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedjafar.sec@gmail.com)
 
 </div>
+
+<br/>
+
+<div align="center">
+
+![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=8B98A5&center=true&vCenter=true&width=500&height=30&lines=connect+%3E+exploit+%3E+report+%3E+repeat)
+
+</div>
