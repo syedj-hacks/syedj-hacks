@@ -81,3 +81,24 @@ Currently chasing OSCP. Always chasing the next flag.
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedj-hacks&bg_color=0D1117&color=FF4B4B&line=FF4B4B&point=F0F4F8&area=true&area_color=FF4B4B&title_color=FF4B4B&hide_border=true" alt="Activity graph" />
 
 </div>
+
+## 🏅 Certifications
+
+<div align="center">
+
+![TCM Security](https://img.shields.io/badge/TCM%20Security-Practical%20Ethical%20Hacking-FF4B4B?style=for-the-badge&labelColor=0D1117)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Junior%20Pentester%20Path-FF4B4B?style=for-the-badge&labelColor=0D1117)
+![Bano Qabil](https://img.shields.io/badge/Bano%20Qabil-Digital%20Forensics%20%26%20Ethical%20Hacking-FF4B4B?style=for-the-badge&labelColor=0D1117)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20%28Planned%29-8B98A5?style=for-the-badge&labelColor=0D1117)
+![OSCP](https://img.shields.io/badge/OSCP-Target%20Cert%20%28Planned%29-8B98A5?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+## 📫 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-jaffar-gdet)
+[![Email](https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedjafar.sec@gmail.com)
+
+</div>
