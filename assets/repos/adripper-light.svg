@@ -1,0 +1,19 @@
+<svg width="580" height="190" viewBox="0 0 580 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ADripper repo card">
+  <rect x="1" y="1" width="578" height="188" rx="14" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+  <g opacity="0">
+    <animate attributeName="opacity" begin="0.3s" dur="0.6s" values="0;1" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" begin="0.3s" dur="0.6s" values="0,14;0,0" fill="freeze"/>
+
+    <path d="M28 28 L38 22 L48 28 L48 42 C48 48 43 52 38 54 C33 52 28 48 28 42 Z"
+          fill="#FF4B4B" fill-opacity="0.15" stroke="#FF4B4B" stroke-width="2"/>
+    <text x="64" y="42" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" font-weight="bold" fill="#1F2328">ADripper</text>
+
+    <text x="28" y="88" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#57606A">Active Directory enum &amp; attack-path CLI —</text>
+    <text x="28" y="110" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#57606A">Kerberoast, ACL abuse, BloodHound-style path to DA</text>
+
+    <circle cx="32" cy="160" r="5" fill="#3572A5"/>
+    <text x="44" y="164" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#57606A">Python</text>
+
+    <text x="552" y="164" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#FF4B4B">view repo &#8599;</text>
+  </g>
+</svg>

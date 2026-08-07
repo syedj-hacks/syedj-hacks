@@ -39,3 +39,28 @@ Currently chasing OSCP. Always chasing the next flag.
 <img src="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/main/assets/icons/john-the-ripper.svg" width="48" height="48" alt="John the Ripper" title="John the Ripper" />
 
 </div>
+
+## 🔦 Featured Repos
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/syedj-hacks/aegis-scanner">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/main/assets/repos/aegis-scanner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/main/assets/repos/aegis-scanner-light.svg">
+  <img alt="aegis-scanner repo card" src="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/main/assets/repos/aegis-scanner-dark.svg" width="100%">
+</picture>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/syedj-hacks/ADripper">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/main/assets/repos/adripper-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/main/assets/repos/adripper-light.svg">
+  <img alt="ADripper repo card" src="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/main/assets/repos/adripper-dark.svg" width="100%">
+</picture>
+</a>
+</td>
+</tr>
+</table>
