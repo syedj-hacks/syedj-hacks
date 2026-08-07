@@ -1,0 +1,8 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Burp Suite">
+  <ellipse cx="24" cy="26" rx="9" ry="13" fill="#FF4B4B" fill-opacity="0.15" stroke="#FF4B4B" stroke-width="2.5"/>
+  <circle cx="24" cy="12" r="4" stroke="#FF4B4B" stroke-width="2.5"/>
+  <path d="M21 9 L17 5 M27 9 L31 5" stroke="#FF4B4B" stroke-width="2" stroke-linecap="round"/>
+  <path d="M15 18 L7 14 M15 26 L6 26 M15 33 L7 37" stroke="#FF4B4B" stroke-width="2" stroke-linecap="round"/>
+  <path d="M33 18 L41 14 M33 26 L42 26 M33 33 L41 37" stroke="#FF4B4B" stroke-width="2" stroke-linecap="round"/>
+  <line x1="24" y1="16" x2="24" y2="38" stroke="#FF4B4B" stroke-width="2" stroke-opacity="0.6"/>
+</svg>

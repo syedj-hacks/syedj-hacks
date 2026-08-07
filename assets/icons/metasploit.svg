@@ -1,0 +1,7 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Metasploit">
+  <path d="M24 6 C33 6 39 12 39 21 C39 27 36 30 34 33 L34 38 C34 40 32 41 30 41 L18 41 C16 41 14 40 14 38 L14 33 C12 30 9 27 9 21 C9 12 15 6 24 6 Z"
+        fill="#FF4B4B" fill-opacity="0.15" stroke="#FF4B4B" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="18" cy="21" r="3.5" fill="#FF4B4B"/>
+  <circle cx="30" cy="21" r="3.5" fill="#FF4B4B"/>
+  <path d="M17 32 L20 35 L24 32 L28 35 L31 32" stroke="#FF4B4B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

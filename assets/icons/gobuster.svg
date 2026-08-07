@@ -1,0 +1,8 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gobuster">
+  <path d="M6 14 C6 12 7 11 9 11 L18 11 L21 14 L37 14 C39 14 40 15 40 17 L40 32 C40 34 39 35 37 35 L9 35 C7 35 6 34 6 32 Z"
+        fill="#FF4B4B" fill-opacity="0.15" stroke="#FF4B4B" stroke-width="2.5" stroke-linejoin="round"/>
+  <line x1="12" y1="21" x2="26" y2="21" stroke="#FF4B4B" stroke-width="2" stroke-linecap="round" stroke-opacity="0.7"/>
+  <line x1="12" y1="27" x2="22" y2="27" stroke="#FF4B4B" stroke-width="2" stroke-linecap="round" stroke-opacity="0.7"/>
+  <circle cx="33" cy="30" r="7" fill="none" stroke="#FF4B4B" stroke-width="2.5"/>
+  <line x1="38" y1="35" x2="43" y2="40" stroke="#FF4B4B" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
