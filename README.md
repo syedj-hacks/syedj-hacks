@@ -64,3 +64,20 @@ Currently chasing OSCP. Always chasing the next flag.
 </td>
 </tr>
 </table>
+
+## 📊 Stats
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=syedj-hacks&background=0D1117&border=232A35&stroke=232A35&ring=FF4B4B&fire=FF4B4B&currStreakNum=F0F4F8&sideNums=F0F4F8&currStreakLabel=FF4B4B&sideLabels=8B98A5&dates=8B98A5&hide_border=true" alt="GitHub streak stats" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedj-hacks&show_icons=true&hide_rank=true&count_private=true&bg_color=0D1117&title_color=FF4B4B&text_color=F0F4F8&icon_color=FF4B4B&border_color=232A35" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedj-hacks&layout=compact&bg_color=0D1117&title_color=FF4B4B&text_color=F0F4F8&border_color=232A35" alt="Top languages" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedj-hacks&bg_color=0D1117&color=FF4B4B&line=FF4B4B&point=F0F4F8&area=true&area_color=FF4B4B&title_color=FF4B4B&hide_border=true" alt="Activity graph" />
+
+</div>
