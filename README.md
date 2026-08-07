@@ -99,6 +99,7 @@ Currently chasing OSCP. Always chasing the next flag.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-jaffar-gdet)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4B4B?style=for-the-badge&labelColor=0D1117)](https://tryhackme.com/p/syedJ)
 [![Email](https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedjafar.sec@gmail.com)
 
 </div>
