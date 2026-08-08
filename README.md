@@ -68,12 +68,24 @@
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedj-hacks&show_icons=true&hide_rank=true&count_private=true&bg_color=0F141C&title_color=2F9BF5&text_color=DDE5EF&icon_color=2F9BF5&border_color=1E2836" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedj-hacks&layout=compact&bg_color=0F141C&title_color=2F9BF5&text_color=DDE5EF&border_color=1E2836" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats-khaki-seven-37.vercel.app/api?username=syedj-hacks&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0F141C&title_color=2F9BF5&text_color=DDE5EF&icon_color=2F9BF5&border_color=1E2836" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats-khaki-seven-37.vercel.app/api/top-langs/?username=syedj-hacks&layout=compact&hide_border=true&bg_color=0F141C&title_color=2F9BF5&text_color=DDE5EF&border_color=1E2836" alt="Top languages" />
 
 <br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedj-hacks&bg_color=0F141C&color=2F9BF5&line=2F9BF5&point=DDE5EF&area=true&area_color=2F9BF5&title_color=2F9BF5&hide_border=true" alt="Activity graph" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
