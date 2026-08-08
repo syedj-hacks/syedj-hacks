@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: syedj-hacks
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FF4B4B&color_dots=%23EBEDF0,%23FFD1D1,%23FF9E9E,%23FF6E6E,%23FF4B4B
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF4B4B&color_dots=%23262B36,%233D2B34,%236B2F3A,%23B23540,%23FF4B4B
+            dist/github-contribution-grid-snake.svg?color_snake=%232F9BF5&color_dots=%23CBD5E2,%23A9C6EC,%2385AEE0,%234D8ED4,%232F9BF5
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%232F9BF5&color_dots=%231E2836,%23223349,%232A4566,%23225C93,%232F9BF5
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

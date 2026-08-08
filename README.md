@@ -6,20 +6,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=700&height=50&lines=Junior+Penetration+Tester+-+OSCP-track;TryHackMe%3A+63+labs%2C+top+9+percent%2C+82-day+streak;Recon+-+Enumeration+-+Exploitation+-+Report)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F9BF5&center=true&vCenter=true&width=700&height=50&lines=Junior+Penetration+Tester+-+OSCP-track;TryHackMe%3A+63+labs%2C+top+9+percent%2C+82-day+streak;Recon+-+Enumeration+-+Exploitation+-+Report)](https://git.io/typing-svg)
 
 </div>
 
-```bash
-$ cat about.txt
-CS grad focused on offensive security — web app testing, vulnerability
-assessment, and Active Directory enumeration.
-
-Hands-on through TryHackMe's Junior Pentester path, TCM Security's Practical
-Ethical Hacking course, and self-built recon/exploitation tooling in Python.
-
-Currently chasing OSCP. Always chasing the next flag.
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/main/assets/repos/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/main/assets/repos/about-light.svg">
+  <img alt="About Syed Jafar" src="https://raw.githubusercontent.com/syedj-hacks/syedj-hacks/main/assets/repos/about-dark.svg" width="100%">
+</picture>
 
 ## 🛠️ Tools & Tech Stack
 
@@ -69,16 +64,16 @@ Currently chasing OSCP. Always chasing the next flag.
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=syedj-hacks&background=0D1117&border=232A35&stroke=232A35&ring=FF4B4B&fire=FF4B4B&currStreakNum=F0F4F8&sideNums=F0F4F8&currStreakLabel=FF4B4B&sideLabels=8B98A5&dates=8B98A5&hide_border=true" alt="GitHub streak stats" />
+<img width="100%" src="https://streak-stats.demolab.com?user=syedj-hacks&background=0F141C&border=1E2836&stroke=1E2836&ring=2F9BF5&fire=2F9BF5&currStreakNum=DDE5EF&sideNums=DDE5EF&currStreakLabel=2F9BF5&sideLabels=77879B&dates=77879B&hide_border=true" alt="GitHub streak stats" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedj-hacks&show_icons=true&hide_rank=true&count_private=true&bg_color=0D1117&title_color=FF4B4B&text_color=F0F4F8&icon_color=FF4B4B&border_color=232A35" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedj-hacks&layout=compact&bg_color=0D1117&title_color=FF4B4B&text_color=F0F4F8&border_color=232A35" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedj-hacks&show_icons=true&hide_rank=true&count_private=true&bg_color=0F141C&title_color=2F9BF5&text_color=DDE5EF&icon_color=2F9BF5&border_color=1E2836" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedj-hacks&layout=compact&bg_color=0F141C&title_color=2F9BF5&text_color=DDE5EF&border_color=1E2836" alt="Top languages" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedj-hacks&bg_color=0D1117&color=FF4B4B&line=FF4B4B&point=F0F4F8&area=true&area_color=FF4B4B&title_color=FF4B4B&hide_border=true" alt="Activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedj-hacks&bg_color=0F141C&color=2F9BF5&line=2F9BF5&point=DDE5EF&area=true&area_color=2F9BF5&title_color=2F9BF5&hide_border=true" alt="Activity graph" />
 
 </div>
 
@@ -86,11 +81,11 @@ Currently chasing OSCP. Always chasing the next flag.
 
 <div align="center">
 
-![TCM Security](https://img.shields.io/badge/TCM%20Security-Practical%20Ethical%20Hacking-FF4B4B?style=for-the-badge&labelColor=0D1117)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Junior%20Pentester%20Path-FF4B4B?style=for-the-badge&labelColor=0D1117)
-![Bano Qabil](https://img.shields.io/badge/Bano%20Qabil-Digital%20Forensics%20%26%20Ethical%20Hacking-FF4B4B?style=for-the-badge&labelColor=0D1117)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20%28Planned%29-8B98A5?style=for-the-badge&labelColor=0D1117)
-![OSCP](https://img.shields.io/badge/OSCP-Target%20Cert%20%28Planned%29-8B98A5?style=for-the-badge&labelColor=0D1117)
+![TCM Security](https://img.shields.io/badge/TCM%20Security-Practical%20Ethical%20Hacking-2F9BF5?style=for-the-badge&labelColor=0F141C)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Junior%20Pentester%20Path-2F9BF5?style=for-the-badge&labelColor=0F141C)
+![Bano Qabil](https://img.shields.io/badge/Bano%20Qabil-Digital%20Forensics%20%26%20Ethical%20Hacking-2F9BF5?style=for-the-badge&labelColor=0F141C)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20%28Planned%29-E8A33D?style=for-the-badge&labelColor=0F141C)
+![OSCP](https://img.shields.io/badge/OSCP-Target%20Cert%20%28Planned%29-E8A33D?style=for-the-badge&labelColor=0F141C)
 
 </div>
 
@@ -99,8 +94,8 @@ Currently chasing OSCP. Always chasing the next flag.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-jaffar-gdet)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4B4B?style=for-the-badge&labelColor=0D1117)](https://tryhackme.com/p/syedJ)
-[![Email](https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedjafar.sec@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-2F9BF5?style=for-the-badge&labelColor=0F141C)](https://tryhackme.com/p/syedJ)
+[![Email](https://img.shields.io/badge/Email-2F9BF5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedjafar.sec@gmail.com)
 
 </div>
 
@@ -108,6 +103,6 @@ Currently chasing OSCP. Always chasing the next flag.
 
 <div align="center">
 
-![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=8B98A5&center=true&vCenter=true&width=500&height=30&lines=connect+%3E+exploit+%3E+report+%3E+repeat)
+![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=77879B&center=true&vCenter=true&width=500&height=30&lines=connect+%3E+exploit+%3E+report+%3E+repeat)
 
 </div>

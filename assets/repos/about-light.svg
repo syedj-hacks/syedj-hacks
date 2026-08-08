@@ -1,0 +1,26 @@
+<svg width="1152" height="256" viewBox="0 0 1152 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Syed Jafar">
+  <defs>
+    <clipPath id="aboutClipLight">
+      <rect x="1" y="1" width="1150" height="254" rx="14"/>
+    </clipPath>
+  </defs>
+  <rect x="1" y="1" width="1150" height="254" rx="14" fill="#FFFFFF" stroke="#CBD5E2" stroke-width="1"/>
+  <g clip-path="url(#aboutClipLight)">
+    <rect x="1" y="1" width="1150" height="3" fill="#8FB6E6"/>
+  </g>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
+    <text x="32" y="40" font-size="12">
+      <tspan fill="#8593A5">syedj-hacks@offsec:~$ </tspan><tspan fill="#1466C6" font-weight="bold">act 2</tspan><tspan fill="#8593A5"> &#8212; profile</tspan>
+    </text>
+
+    <text x="32" y="76" font-size="21" font-weight="bold">
+      <tspan fill="#526074">cat </tspan><tspan fill="#1466C6">about.txt</tspan>
+    </text>
+
+    <text x="32" y="112" font-size="14.5" fill="#0D1826">CS grad focused on offensive security &#8212; web app testing, vulnerability</text>
+    <text x="32" y="136" font-size="14.5" fill="#0D1826">assessment, and Active Directory enumeration.</text>
+    <text x="32" y="168" font-size="14.5" fill="#0D1826">Hands-on through TryHackMe's Junior Pentester path, TCM Security's</text>
+    <text x="32" y="192" font-size="14.5" fill="#0D1826">Practical Ethical Hacking course, and self-built tooling in Python.</text>
+    <text x="32" y="224" font-size="14.5" fill="#1466C6">Currently chasing OSCP. Always chasing the next flag.</text>
+  </g>
+</svg>
