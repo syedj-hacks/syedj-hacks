@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F9BF5&center=true&vCenter=true&width=700&height=50&lines=Junior+Penetration+Tester+-+OSCP-track;TryHackMe%3A+66
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F9BF5&center=true&vCenter=true&width=700&height=50&lines=Junior+Penetration+Tester+-+OSCP-track;TryHackMe%3A+63
 +labs%2C+top+9+percent%2C+82-day+streak;Recon+-+Enumeration+-+Exploitation+-+Report)](https://git.io/typing-svg)
 
 </div>
